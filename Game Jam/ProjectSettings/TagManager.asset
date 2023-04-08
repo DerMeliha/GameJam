@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Test
+  - Test2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 87818707
+    locked: 0
+  - name: FenceBack
+    uniqueID: 2303026101
+    locked: 0
+  - name: TreeBack
+    uniqueID: 923563361
+    locked: 0
+  - name: FenceMiddle
+    uniqueID: 703988617
+    locked: 0
+  - name: TreeFront
+    uniqueID: 2114472223
+    locked: 0
+  - name: FenceFront
+    uniqueID: 3840017053
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
