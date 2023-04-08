@@ -38,8 +38,23 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Black
+    uniqueID: 3451187897
+    locked: 0
+  - name: BackWalls
+    uniqueID: 1022435565
+    locked: 0
+  - name: MidWallsBack
+    uniqueID: 1121862711
+    locked: 0
   - name: Ground
     uniqueID: 87818707
+    locked: 0
+  - name: MidWallsFront
+    uniqueID: 3766260845
+    locked: 0
+  - name: FrontWalls
+    uniqueID: 600625797
     locked: 0
   - name: FenceBack
     uniqueID: 2303026101
