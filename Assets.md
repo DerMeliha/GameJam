@@ -12,3 +12,4 @@ https://opengameart.org/content/tree-collection-v26-bleeds-game-art
 https://opengameart.org/content/old-man
 https://opengameart.org/content/dungeon-stairs
 https://game-endeavor.itch.io/mystic-woods
+https://ultimate-end.itch.io/slime-enemy-animated
