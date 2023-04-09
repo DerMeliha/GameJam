@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: stoneWallCorner_S1
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: 331a2d189bf096e4babc69861787b64c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c7719fc17f216ac4d8d1b27e52821831, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
