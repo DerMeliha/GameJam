@@ -41,19 +41,10 @@ TagManager:
   - name: Black
     uniqueID: 3451187897
     locked: 0
-  - name: MidWallsBack
-    uniqueID: 1121862711
-    locked: 0
-  - name: BackWalls
-    uniqueID: 1022435565
-    locked: 0
   - name: Ground
     uniqueID: 87818707
     locked: 0
-  - name: MidWallsFront
-    uniqueID: 3766260845
-    locked: 0
-  - name: FrontWalls
+  - name: Walls
     uniqueID: 600625797
     locked: 0
   - name: FenceBack
@@ -62,15 +53,15 @@ TagManager:
   - name: TreeBack
     uniqueID: 923563361
     locked: 0
-  - name: FenceMiddle
-    uniqueID: 703988617
-    locked: 0
-  - name: TreeFront
-    uniqueID: 2114472223
-    locked: 0
   - name: FenceFront
     uniqueID: 3840017053
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Building
+    uniqueID: 603657041
+    locked: 0
+  - name: TreeFront
+    uniqueID: 2114472223
     locked: 0
