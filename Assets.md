@@ -15,3 +15,4 @@ https://game-endeavor.itch.io/mystic-woods
 https://ultimate-end.itch.io/slime-enemy-animated
 https://opengameart.org/content/woodland-fantasy
 https://github.com/Brackeys/Health-Bar
+https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811#content 
