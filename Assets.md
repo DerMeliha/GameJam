@@ -14,3 +14,4 @@ https://opengameart.org/content/dungeon-stairs
 https://game-endeavor.itch.io/mystic-woods
 https://ultimate-end.itch.io/slime-enemy-animated
 https://opengameart.org/content/woodland-fantasy
+https://github.com/Brackeys/Health-Bar
