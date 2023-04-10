@@ -12,3 +12,7 @@ https://opengameart.org/content/tree-collection-v26-bleeds-game-art
 https://opengameart.org/content/old-man
 https://opengameart.org/content/dungeon-stairs
 https://game-endeavor.itch.io/mystic-woods
+https://ultimate-end.itch.io/slime-enemy-animated
+https://opengameart.org/content/woodland-fantasy
+https://github.com/Brackeys/Health-Bar
+https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811#content 
